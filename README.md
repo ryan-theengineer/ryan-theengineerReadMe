@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mendoshiii, a thinkful student
+- 👋 Hi, I’m @mendoshiii, or Ryan a thinkful student
 - 👀 I’m interested in blockchain, game development and anything to do with code!
 - 🌱 I’m currently learning Thinkful's curriculum and the basics of React framework
 - 💞️ I’m looking to collaborate on anything that I can be of help with!
