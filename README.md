@@ -1,4 +1,4 @@
-- 👋 Hi, I’m , or Ryan a thinkful graduate
+- 👋 Hi, I’m Ryan a thinkful graduate
 - 👀 I’m interested in blockchain, game development and anything to do with code!
 - 🌱 I’m currently learning Thinkful's curriculum and the basics of React framework
 - 💞️ I’m looking to collaborate on anything that I can be of help with!
